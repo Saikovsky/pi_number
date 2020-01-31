@@ -1,3 +1,0 @@
-C:/Programowanie/monte carlo/cmake-build-debug/CMakeFiles/monte.dir
-C:/Programowanie/monte carlo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Programowanie/monte carlo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
